@@ -1,0 +1,19 @@
+.project-402-menu{
+    width: 100%;
+    height: 100;
+    background-image: url("");
+}
+.project-402-menu-field{
+    width: 20vw;
+    position: relative;
+    top:40vh;
+    left: 19vw;
+}
+.project-402-menu-field-item{
+    color: white;
+    height: 7vh;
+    width: 18vw;
+    font-size:6vh;
+    padding: 2vh;
+
+}

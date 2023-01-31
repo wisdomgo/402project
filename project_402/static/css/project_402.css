@@ -2,6 +2,8 @@
     width: 100%;
     height: 100;
     background-image: url("");
+    background-size: 100% 100%;
+    user-select: none;
 }
 .project-402-menu-field{
     width: 20vw;
@@ -15,5 +17,7 @@
     width: 18vw;
     font-size:6vh;
     padding: 2vh;
+    text-align: center;
+    background-color: rgba(39, 21, 28, 0.6);
 
 }

@@ -15,6 +15,7 @@ class Project_402Menu{
                 ÎÒµÄ
         </div> 
 `)
+        this.$menu.hide();
         this.root.$project_402_append(this.$menu);
         this.$schedule = this.$menu.find(`.project_402-menu-field-item-schedule`);
         this.$now = this.$menu.find(`.project_402-menu-field-item-now`);
